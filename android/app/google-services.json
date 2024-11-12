@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987715579915",
+    "project_id": "fir-withnoteapp",
+    "storage_bucket": "fir-withnoteapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987715579915:android:626dfb40a236f3bc36170e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQ_KbAiTQ2sJ0l7rxFARehD7ins9g3w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
